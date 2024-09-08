@@ -47,13 +47,13 @@ function Formulario() {
           Agregar Tarea
           </Button>
     </Form>
-    {
+    {/* {
         array.map((element)=>
 
         
             <Lista lista={element.tarea} id={element.id} borrar={borrardesdehijo}></Lista> 
         )
-    }
+    } */}
    
     </>
   );
