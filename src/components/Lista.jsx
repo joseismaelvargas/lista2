@@ -4,9 +4,7 @@ import ListGroup from 'react-bootstrap/ListGroup';
 
 export const Lista=({lista,id,borrar})=>{
 
-    // const borrarmensaje=()=>{
-    //     borrar(id)
-    // }
+    
     return(
         <>
         <div>
